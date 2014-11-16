@@ -1,0 +1,11 @@
+org\jpmorgan\resource\msg\mngt\MessageProcessorImpl.class
+org\jpmorgan\resource\target\TargetConsumer.class
+org\jpmorgan\resource\msg\mngt\ResourceSchedulerApp.class
+org\jpmorgan\resource\msg\MessageInfo.class
+org\jpmorgan\resource\msg\Gateway.class
+org\jpmorgan\resource\msg\mngt\MessageUtil.class
+org\jpmorgan\resource\msg\mngt\GatewayImpl.class
+org\jpmorgan\resource\msg\mngt\MessagePriority.class
+org\jpmorgan\resource\msg\MessageProcessor.class
+org\jpmorgan\resource\msg\mngt\MessageConsumer.class
+org\jpmorgan\resource\msg\exception\TerminationException.class

@@ -1,0 +1,12 @@
+org\test\jpmorgan\ressource\msg\MessageConsumerIntergrationTest.class
+org\test\JMSMessageSender.class
+org\test\jpmorgan\ressource\msg\MessageConsumerIntergrationTest$1.class
+org\test\TestMessagePriority.class
+org\test\jpmorgan\ressource\msg\TargetConsumerTest.class
+org\test\MessageSender.class
+org\test\jpmorgan\ressource\msg\MessageProcessorImplTest.class
+org\test\jpmorgan\ressource\msg\MessageUtilTest.class
+org\test\jpmorgan\ressource\msg\MessagePriorityTest.class
+org\test\jpmorgan\ressource\msg\GatewayImplTest.class
+org\test\jpmorgan\ressource\msg\TerminationExceptionTest.class
+org\test\jpmorgan\ressource\msg\MessageInfoTest.class
